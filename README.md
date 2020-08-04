@@ -1,1 +1,1 @@
-# Walmart-Sales-Forecoasting
+# Walmart-Sales-Forecasting
